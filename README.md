@@ -42,7 +42,11 @@ apt install -y git && apt install -y screen && curl -fsSL https://get.docker.com
 
 ```
 cd powerloom
+```
+```
 screen -S node
+```
+```
 ./build.sh
 ```
 
