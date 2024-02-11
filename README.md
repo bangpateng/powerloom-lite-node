@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="500" height="auto" src="https://github.com/bangpateng/powerloom-lite-node/assets/38981255/7b334d46-0a49-4d13-81c3-4208d44b216d">
+  <img height="250" height="250" src="https://github.com/bangpateng/powerloom-lite-node/assets/38981255/7b334d46-0a49-4d13-81c3-4208d44b216d">
 
 | Join My Sosial Media  | |
 | :------------: | :------------: |
@@ -52,12 +52,26 @@ screen -S node
 
 ## Isi Data Data :
 
-- **SOURCE_RPC_URL Isi :**  
-- **SIGNER_ACCOUNT_ADDRESS Isi :** Memanfaatkan dompet burner untuk alamat akun penandatangan.
+- **SOURCE_RPC_URL Isi :**  Lihat Tutor di Bawah 
+- **SIGNER_ACCOUNT_ADDRESS Isi :** Memanfaatkan dompet burner untuk alamat akun penandatangan (Gunakan New Wallet)
 - **SIGNER_ACCOUNT_PRIVATE_KEY Isi :** Gunakan kunci pribadi dari dompet burner Anda.
 
-**TAMBAHAN OPTIONAL**
+## Create RPC Sendiri di Alchemy
+
+- Open Link and Register : https://alchemy.com/?r=b2360e83006e718e
+- Sign Up With Account Google
+- Klik Apps > Create New App
+- Chain Biarkan Etereum Mainnet
+- Create Nama dan Deskripsi Bebas
+- Create App
+- Klik API Key
+- Salin Link HTTPS Nya
+- Itu Akan Kita Gunakan Untuk Mengisi **SOURCE_RPC_URL**
+- Done
+
 - Save Screen : ```CTRL + A + D```
+
+**TAMBAHAN OPTIONAL**
 - Kembali ke Screen : ```screen -r node```
 
 **CATATAN :**
