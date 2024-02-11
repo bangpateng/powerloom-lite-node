@@ -52,22 +52,9 @@ screen -S node
 
 ## Isi Data Data :
 
-- **SOURCE_RPC_URL Isi :**  Lihat Tutor di Bawah 
+- **SOURCE_RPC_URL Isi :**   
 - **SIGNER_ACCOUNT_ADDRESS Isi :** Memanfaatkan dompet burner untuk alamat akun penandatangan (Gunakan New Wallet)
 - **SIGNER_ACCOUNT_PRIVATE_KEY Isi :** Gunakan kunci pribadi dari dompet burner Anda.
-
-## Create RPC Sendiri di Alchemy
-
-- Open Link and Register : https://alchemy.com/?r=b2360e83006e718e
-- Sign Up With Account Google
-- Klik Apps > Create New App
-- Chain Biarkan Etereum Mainnet
-- Create Nama dan Deskripsi Bebas
-- Create App
-- Klik API Key
-- Salin Link HTTPS Nya
-- Itu Akan Kita Gunakan Untuk Mengisi **SOURCE_RPC_URL**
-- Done
 
 - Save Screen : ```CTRL + A + D```
 
