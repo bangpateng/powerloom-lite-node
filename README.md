@@ -52,7 +52,7 @@ screen -S node
 
 ## Isi Data Data :
 
-- **SOURCE_RPC_URL Isi :**   
+- **SOURCE_RPC_URL Isi :**   Untuk Isi Ini, Kalian Bisa Buat RPC API Sendiri di : https://docs.infura.io/dashboard/create-api (Nanti Salin Link https nya) Untuk Isi Data ini
 - **SIGNER_ACCOUNT_ADDRESS Isi :** Memanfaatkan dompet burner untuk alamat akun penandatangan (Gunakan New Wallet)
 - **SIGNER_ACCOUNT_PRIVATE_KEY Isi :** Gunakan kunci pribadi dari dompet burner Anda.
 
